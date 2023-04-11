@@ -1,5 +1,5 @@
 # Assignment 01-Heuristic Evaluation
-## Sophia Gao, DH 110
+## Sophia Gao - DH 110 Spring 2023
 
 ## Tentative Title: FindMyFamily
 
@@ -21,4 +21,7 @@ Instagram is a social media platform where users can share photos and videos, an
 Overall Evaluation:
 The platform is a nice way for family members to check up on each others life updates, but isn't necessarily fit for the daily/random parts of the day updates. Once users start following more people, it might get difficult to check up on family members, as they would get lost in the sea of their followings. It's hard to separate family members into their own grouping using this. 
 
-
+| Heuristic | Description | Evaluation | Severity |
+| --- | --- | --- |
+| 1. Visibility of System Status| The application allows the user to know if they are logged in or not, in order to view their feed | I think it's a decent execution, as the users home feed will be dependent on if they have logged into their account or not. I would say it could be a tad bit clearer, because I know sometimes Instagram allows you to view a random feed if you don't follow specific people. | 2 |
+| git diff | Show file differences that haven't been staged |
