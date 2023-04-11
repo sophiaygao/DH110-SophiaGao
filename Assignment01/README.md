@@ -3,6 +3,8 @@
 
 ## Tentative Title: FindMyFamily
 
+I want to create a platform for family members to be able to see daily updates and pictures from wherever they are located. It is similar to FindMyFriends, but when you click on the family member, any posts they made that day/at that location will show up too. The postings will stay at the location they are uploaded from, and so this way you can see if anyone is traveling or not. Users will be able to comment and react to each post as well. 
+
 ### Competitor A: Instagram
 <img width="1440" alt="Screen Shot 2023-04-11 at 12 11 09 AM" src="https://user-images.githubusercontent.com/53666967/231083678-4506e7bd-7a06-400d-82a2-4976d168768e.png">
 View full site here: [Instagram](http://www.instagram.com)
