@@ -67,7 +67,7 @@ Severity: 0
 ### Competitor B: BeReal
 <img width="1440" alt="Screen Shot 2023-04-11 at 12 54 16 AM" src="https://user-images.githubusercontent.com/53666967/231093920-28e66f8e-624a-45ee-9c58-8bc109bd3791.png">
 
-View full site here: [BeReal]([url](https://bere.al/en))
+View full site here: [BeReal](https://bere.al/en)
 *better viewed as a mobile app* 
 
 ### Background Info
